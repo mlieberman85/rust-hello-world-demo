@@ -6,3 +6,4 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rust-dependency-demo = { git = "https://github.com/mlieberman85/rust-dependency-demo" }

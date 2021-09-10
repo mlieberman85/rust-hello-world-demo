@@ -1,3 +1,5 @@
+use rust_dependency_demo::print;
+
 fn main() {
-    println!("Hello, world!");
+    print("Hello, world!");
 }
