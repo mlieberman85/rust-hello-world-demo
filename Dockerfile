@@ -1,4 +1,4 @@
-from ttl.sh/mlieberman-rust:1h
+FROM ttl.sh/mlieberman-rust:1h
 
 COPY "rust/" "/tmp/"
 WORKDIR "/tmp"
