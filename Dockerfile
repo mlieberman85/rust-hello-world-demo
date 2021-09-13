@@ -1,4 +1,4 @@
-FROM ttl.sh/mlieberman-rust:1h
+FROM ghcr.io/mlieberman85/rust:latest
 
 COPY "rust/" "/tmp/"
 WORKDIR "/tmp"
